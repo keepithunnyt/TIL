@@ -13,11 +13,11 @@
 
 #### [210826](https://www.facameats-ksg.shop/) - js홈페이지 도메인 구매, 관계형데이터베이스 및 연동 (aws RDS, route53, ec2, certificate manager / 가비아) 
 
-#### 210827
+#### 210827 - ADSP Study
 
-#### 210828
+#### 210828 - ADSP Study
 
-#### 210829
+#### 210829 - ADSP Test
 
 #### 210830
 
