@@ -19,6 +19,6 @@
 
 #### 210829 - ADSP Test
 
-#### 210830
+#### 210830 - DSE Study, linked open data intern education
 
-#### 210831
+#### 210831 
