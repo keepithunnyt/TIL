@@ -21,4 +21,4 @@
 
 #### 210830 - DSE Study, linked open data intern education
 
-#### 210831 
+#### 210831 - DSE Study, linked open data intern education
