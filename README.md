@@ -22,3 +22,5 @@
 #### 210830 - DSE Study, linked open data intern education
 
 #### 210831 - DSE Study, linked open data intern education
+
+#### 210901 - [vanilajs](https://codesandbox.io/s/vanilajs-challenge6-xo48g?file=/src/index.js:0-675), DSE Study, linked open data intern education
