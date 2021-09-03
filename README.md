@@ -28,3 +28,5 @@
 #### 210902 - [vanilajs](https://codesandbox.io/s/vanilajs-challenge6-cdqdz?file=/src/style.css:0-282), DSE Study, linked open data intern education
 
 #### 210903 - vanilajs(lecture), DSE Study, linked open data intern education
+
+#### 210904 - DSE exam, linked open data intern education
