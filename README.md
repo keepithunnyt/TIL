@@ -26,3 +26,5 @@
 #### 210901 - [vanilajs](https://codesandbox.io/s/vanilajs-challenge6-xo48g?file=/src/index.js:0-675), DSE Study, linked open data intern education
 
 #### 210902 - [vanilajs](https://codesandbox.io/s/vanilajs-challenge6-cdqdz?file=/src/style.css:0-282), DSE Study, linked open data intern education
+
+#### 210903 - vanilajs(lecture), DSE Study, linked open data intern education
