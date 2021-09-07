@@ -30,3 +30,7 @@
 #### 210903 - vanilajs(lecture), DSE Study, linked open data intern education
 
 #### 210904 - DSE exam, linked open data intern education
+
+#### 210905 - [vanila(project)](https://keepithunnyt.github.io/nomad_vanilajs_project/), book(수학의 쓸모)
+
+#### 210907 - [nomadcoder_python_subject1](https://replit.com/@keepithunnyt/Day-Two-Blueprint), linked open data intern education, [패스트캠퍼스_한번에 끝내는 데이터분석 초격차 패키지](https://blog.naver.com/altks011/222498390143)
