@@ -26,3 +26,5 @@
 #### 210905 - [vanila(project)](https://keepithunnyt.github.io/nomad_vanilajs_project/), book(수학의 쓸모)
 
 #### 210907 - [nomadcoder_python_subject1](https://replit.com/@keepithunnyt/Day-Two-Blueprint), linked open data intern education, [패스트캠퍼스_한번에 끝내는 데이터분석 초격차 패키지](https://blog.naver.com/altks011/222498390143), 네카라쿠배 스쿨 역량테스트
+
+#### 210908 - linked open data intern education test, [nomadcoder_python_subject2](https://replit.com/@keepithunnyt/Day-Three-Blueprint), [패스트캠퍼스_한번에 끝내는 데이터분석 초격차 패키지](https://blog.naver.com/altks011/222499681857)
