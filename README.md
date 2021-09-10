@@ -30,3 +30,5 @@
 #### 210908 - linked open data intern education test, [nomadcoder_python_subject2](https://replit.com/@keepithunnyt/Day-Three-Blueprint), [패스트캠퍼스_한번에 끝내는 데이터분석 초격차 패키지](https://blog.naver.com/altks011/222499681857)
 
 #### 210908 - [nomadcoder_python_subject2](https://replit.com/@keepithunnyt/Day-Four-Blueprint), [패스트캠퍼스_한번에 끝내는 데이터분석 초격차 패키지](https://blog.naver.com/altks011/222500122463)
+
+#### 210908 - [nomadcoder_python_subject2](https://replit.com/@keepithunnyt/Day-Five-Blueprint), [패스트캠퍼스_한번에 끝내는 데이터분석 초격차 패키지](https://blog.naver.com/altks011/222501213527)
