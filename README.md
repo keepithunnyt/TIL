@@ -34,3 +34,5 @@
 #### 210910 - [nomadcoder_python_subject2](https://replit.com/@keepithunnyt/Day-Five-Blueprint), [패스트캠퍼스_한번에 끝내는 데이터분석 초격차 패키지](https://blog.naver.com/altks011/222501213527)
 
 #### 2109011 - [nomadcoder_python_subject2](https://replit.com/@keepithunnyt/Day-Six-Blueprint), [패스트캠퍼스_한번에 끝내는 데이터분석 초격차 패키지](https://blog.naver.com/altks011/222502292473)
+
+#### 2109011 - [패스트캠퍼스_한번에 끝내는 데이터분석 초격차 패키지](https://blog.naver.com/altks011/222503321360)
