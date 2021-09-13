@@ -29,10 +29,12 @@
 
 #### 210908 - linked open data intern education test, [nomadcoder_python_subject2](https://replit.com/@keepithunnyt/Day-Three-Blueprint), [패스트캠퍼스_한번에 끝내는 데이터분석 초격차 패키지](https://blog.naver.com/altks011/222499681857)
 
-#### 210909 - [nomadcoder_python_subject2](https://replit.com/@keepithunnyt/Day-Four-Blueprint), [패스트캠퍼스_한번에 끝내는 데이터분석 초격차 패키지](https://blog.naver.com/altks011/222500122463)
+#### 210909 - [nomadcoder_python_subject3](https://replit.com/@keepithunnyt/Day-Four-Blueprint), [패스트캠퍼스_한번에 끝내는 데이터분석 초격차 패키지](https://blog.naver.com/altks011/222500122463)
 
-#### 210910 - [nomadcoder_python_subject2](https://replit.com/@keepithunnyt/Day-Five-Blueprint), [패스트캠퍼스_한번에 끝내는 데이터분석 초격차 패키지](https://blog.naver.com/altks011/222501213527)
+#### 210910 - [nomadcoder_python_subject4](https://replit.com/@keepithunnyt/Day-Five-Blueprint), [패스트캠퍼스_한번에 끝내는 데이터분석 초격차 패키지](https://blog.naver.com/altks011/222501213527)
 
-#### 210911 - [nomadcoder_python_subject2](https://replit.com/@keepithunnyt/Day-Six-Blueprint), [패스트캠퍼스_한번에 끝내는 데이터분석 초격차 패키지](https://blog.naver.com/altks011/222502292473)
+#### 210911 - [nomadcoder_python_subject5](https://replit.com/@keepithunnyt/Day-Six-Blueprint), [패스트캠퍼스_한번에 끝내는 데이터분석 초격차 패키지](https://blog.naver.com/altks011/222502292473)
 
 #### 210912 - [패스트캠퍼스_한번에 끝내는 데이터분석 초격차 패키지](https://blog.naver.com/altks011/222503321360), book(미적분의 쓸모), 네이버웹툰 코딩테스트
+
+#### 210913 - [패스트캠퍼스_한번에 끝내는 데이터분석 초격차 패키지](https://blog.naver.com/altks011/222504209897), [스파르타 코딩클럽 파이썬 혼자놀기 패키지](https://velog.io/@keepithunnyt/%EC%8A%A4%ED%8C%8C%EB%A5%B4%ED%83%80-%EC%BD%94%EB%94%A9%ED%81%B4%EB%9F%BD1), [nomadcoder_python_subject6](https://replit.com/@keepithunnyt/Day-Eight-Blueprint)
