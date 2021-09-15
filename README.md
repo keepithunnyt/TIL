@@ -40,3 +40,5 @@
 #### 210913 - [패스트캠퍼스_한번에 끝내는 데이터분석 초격차 패키지](https://blog.naver.com/altks011/222504209897), [스파르타 코딩클럽 파이썬 혼자놀기 패키지](https://velog.io/@keepithunnyt/%EC%8A%A4%ED%8C%8C%EB%A5%B4%ED%83%80-%EC%BD%94%EB%94%A9%ED%81%B4%EB%9F%BD1), [nomadcoder_python_subject6](https://replit.com/@keepithunnyt/Day-Eight-Blueprint)
 
 #### 210914 - [패스트캠퍼스_한번에 끝내는 데이터분석 초격차 패키지](https://blog.naver.com/altks011/222505584651), [nomadcoder_python_subject7](https://replit.com/@keepithunnyt/Day-Nine-and-Ten-Blueprint)
+
+#### 210915 - [패스트캠퍼스_한번에 끝내는 데이터분석 초격차 패키지](https://blog.naver.com/altks011/222507074575)
