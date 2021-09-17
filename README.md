@@ -44,3 +44,5 @@
 #### 210915 - [패스트캠퍼스_한번에 끝내는 데이터분석 초격차 패키지](https://blog.naver.com/altks011/222507074575)
 
 #### 210916 - [패스트캠퍼스_한번에 끝내는 데이터분석 초격차 패키지](https://blog.naver.com/altks011/222508126338), [nomadcoder_python_subject8](https://replit.com/@keepithunnyt/Day-Eleven-Blueprint)
+
+#### 210917 - [패스트캠퍼스_한번에 끝내는 데이터분석 초격차 패키지](https://blog.naver.com/altks011/222508922010)
