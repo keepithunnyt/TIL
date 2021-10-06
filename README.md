@@ -81,4 +81,4 @@
 
 #### 211005 - [패스트캠퍼스_한번에 끝내는 데이터분석 초격차 패키지](https://blog.naver.com/altks011/222527673637)
 
-#### 211006 - [simple_project]()
+#### 211006 - [simple_project](https://github.com/keepithunnyt/nklcb/blob/main/weekly_test_211006_%EA%B9%80%EC%84%B1%EA%B8%B8.ipynb)
